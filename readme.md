@@ -4,5 +4,7 @@
 
 #Wijziging rechtstreek vanop GitHub
 
-#Wijziging vanuit local repo 
+<<<<<<< HEAD
+#Wijziging vanuit local repo + tegelijkertijd
+
 
